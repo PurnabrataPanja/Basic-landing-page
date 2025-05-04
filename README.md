@@ -32,7 +32,7 @@ professional-landing-page/
 
 ## 🚀 Live Preview
 
-🔗 [View Live Website]([https://your-username.github.io/professional-landing-page](https://purnabratapanja.github.io/Basic-landing-page/))
+🔗 [View Live Website](https://your-username.github.io/professional-landing-page](https://purnabratapanja.github.io/Basic-landing-page/)
 
 ---
 
